@@ -9,30 +9,30 @@ What Works:
 Nvme
 Ethernet
 Keyboard backlight
+Sound
 Hotkeys for sound
+Headphone Jack
+Internal Speakers
+Internal Mic
 Type A USB Ports
 Webcam
 ThinkPad Clickpads
 ThinkPad Pointer
+Screen backlight level
+iGPU
 
 Issues know/being worked on:
-Crappy iGPU drivers
 Fans go brrrrr
-Screen backlight level
-Sound
 Built In MicroSD Reader
+Hibernation/Sleep
 
 Wont work:
 Wifi because of Intel Wireless-AC 9260 (no chance it works, Intel Wireless is not supported by Apple)
 Battery Life Estimation (macOS doesn't have this feature)
 
 Untested:
-Internal Speakers
-Internal Mic
 Battery Level Status (use RehabMan patch to create your own)
 HDMI Video and Audio Output
-Headphone Jack
-Hibernation
 SATA drivers
 Bluetooth as well as bluetooth earphones, airpods
 Shows correct battery serial number and cycles
